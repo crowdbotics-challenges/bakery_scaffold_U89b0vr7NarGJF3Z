@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.org/crowdbotics-challenges/bakery_scaffold_U89b0vr7NarGJF3Z/builds/581791350)
+
 If you think the status message is incorrect, click into it or check the build status of your latest commit. It may still be building.
 
 # Instructions 
